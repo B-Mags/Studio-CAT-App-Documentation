@@ -4,7 +4,7 @@ Studio CAT is a new digital content database application. Its intended use is fo
 
 ## Persona 
 
-**Sam Jones** <br>
+### Sam Jones <br>
 **Age**: 30 y/o <br>
 **Role**: Digital Content Manager <br>
 **Education**: Masters <br>
