@@ -1,4 +1,4 @@
-# Studio CAT 1.0.1 Release Notes (Beta Release - September 2023) 
+# Studio CAT 1.0.1 Release Notes (Beta Release - October 2023) 
 
 ## Welcome to Studio CAT! 
 
