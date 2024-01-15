@@ -37,7 +37,7 @@ To filter content, simply select the header you wish to filter by and enter the 
 
 There are a number of reports Studio Cat can generate for you, which group titles based on given criteria. These reports are helpful when, for example, you need to see all titles written by a specific author or all titles recorded by a specific studio. It's also useful for more detailed reporting. For example, Studio CAT can generate the upload reports we typically have to create by hand to send to HQ. All reports can be exported to excel. 
 
-### Basic Reports
+### 1. Basic Reports
  
 ### Author Report
 
@@ -75,7 +75,7 @@ This report will include all titles recorded by a selected narrator.
 6. Select "NarratorReport."
 7. Select “Open in Excel Online" to review and save Narrator Report.
 
-<p align="center"> **Detailed Reports**</p>
+### 2. Detailed Reports 
 
 ### Upload Report
 
