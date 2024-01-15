@@ -75,7 +75,7 @@ This report will include all titles recorded by a selected narrator.
 6. Select "NarratorReport."
 7. Select “Open in Excel Online" to review and save Narrator Report.
 
-<p align="center">### Detailed Reports</p>
+<p align="center"> **Detailed Reports**</p>
 
 ### Upload Report
 
