@@ -14,10 +14,10 @@ The release of Studio CAT 1.0.1 introduces Batch Reporting features. This versio
 | --- | --- |
 | Expanded Search Parameters | Users can now search by title, title ID, author, narrator, studio, or oublication date. |
 | Sorting |  Sort titles by any parameter. |
-|  Batch Reporting: Upload Reports |  |
-|  Batch Reporting: Studio Reports |  |
-|  Batch Reporting: Author Reports |  |
-|  Batch Reporting: Narrator Reports |  |
+|  Batch Reporting: Upload Reports | Batch titles by upload date, and export excel report with selected parameters.  |
+|  Batch Reporting: Studio Reports | Batch titles by studio, and export excel report with selected parameters. |
+|  Batch Reporting: Author Reports | Batch titles by author, and export excel report with selected parameters. |
+|  Batch Reporting: Narrator Reports | Batch titles by narrator, and export excel report with selected parameters. |
 
 ## Limitations 
 
