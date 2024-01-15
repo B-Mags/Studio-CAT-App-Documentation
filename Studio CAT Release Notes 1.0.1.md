@@ -2,7 +2,7 @@
 
 ## Welcome to Studio CAT! 
 
-Studio CAT is a new application for audiobook publishers. The application functions as a digital card catalog, where publishers can store information about individual titles. 
+Studio CAT is a new application for audiobook publishers. The application functions as a digital card catalog, where publishers can store title metadata for internal use. 
 
 ## Overview 
 
@@ -12,13 +12,16 @@ The release of Studio CAT 1.0.1 introduces Batch Reporting features. This versio
 
 | Feature | Description |
 | --- | --- |
-|  |  |
-|  |  |
-|  |  |
+| Expanded Search Parameters | Users can now search by title, title ID, author, narrator, studio, or oublication date. |
+| Sorting |  Sort titles by any parameter. |
+|  Batch Reporting: Upload Reports |  |
+|  Batch Reporting: Studio Reports |  |
+|  Batch Reporting: Author Reports |  |
+|  Batch Reporting: Narrator Reports |  |
 
 ## Limitations 
 
-The Beta version of Studio CAT is fairly limited. Users are limited to creating, searching, and viewing title records for testing purposes. 
+While this release of Studio CAT has more features, the application remains fairly limited for testing purposes. 
 
 ## Future Features 
 
