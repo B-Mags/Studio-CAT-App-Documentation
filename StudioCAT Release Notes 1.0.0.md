@@ -26,5 +26,5 @@ Look forward to **batch reporting features** in Studio CAT 1.0.1. These will inc
 
 ## Call to Action 
 
-If you run into any issues, please report them directly to your manager, who will ensure they are sent directly to IT. Additionally, we are open to feature requests. Simply outline the feature, and submnit the request to your manager. 
+If you run into any issues, please report them directly to your manager, who will ensure they are sent directly to IT. Additionally, we are open to feature requests. Simply outline the feature, and submit the request to your manager. 
 
