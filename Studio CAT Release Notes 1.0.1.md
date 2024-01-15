@@ -26,7 +26,7 @@ While this release of Studio CAT has more features than 1.0.0, the application r
 
 ## Future Features 
 
-Look forward to **batch reporting features** in Studio CAT 1.0.1. These will include: Upload Reports, Studio Reports, Narrator Reports, Author Reports. 
+Look forward to **pre-production features** in Studio CAT 1.0.2. These will include features dedicated to casting and studio scheduling. 
 
 ## Call to Action 
 
