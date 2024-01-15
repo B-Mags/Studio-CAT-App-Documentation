@@ -14,14 +14,15 @@ The release of Studio CAT 1.0.1 introduces Batch Reporting features. This versio
 | --- | --- |
 | Expanded Search Parameters | Users can now search by title, title ID, author, narrator, studio, or oublication date. |
 | Sorting |  Sort titles by any parameter. |
-|  Batch Reporting: Upload Reports | Batch titles by upload date, and export excel report with selected parameters.  |
-|  Batch Reporting: Studio Reports | Batch titles by studio, and export excel report with selected parameters. |
-|  Batch Reporting: Author Reports | Batch titles by author, and export excel report with selected parameters. |
-|  Batch Reporting: Narrator Reports | Batch titles by narrator, and export excel report with selected parameters. |
+| Filtering | Display metadata based on given parameters. | 
+|  Batch Reporting: Upload Reports | Batch titles by upload date and export excel report with selected parameters.  |
+|  Batch Reporting: Studio Reports | Batch titles by studio and export excel report with selected parameters. |
+|  Batch Reporting: Author Reports | Batch titles by author and export excel report with selected parameters. |
+|  Batch Reporting: Narrator Reports | Batch titles by narrator and export excel report with selected parameters. |
 
 ## Limitations 
 
-While this release of Studio CAT has more features, the application remains fairly limited for testing purposes. 
+While this release of Studio CAT has more features than 1.0.0, the application remains fairly limited for testing purposes. 
 
 ## Future Features 
 
@@ -29,4 +30,4 @@ Look forward to **batch reporting features** in Studio CAT 1.0.1. These will inc
 
 ## Call to Action 
 
-If you run into any issues, please report them directly to your manager, who will ensure they are sent directly to IT. Additionally, we are open to feature requests. Simply outline the feature, and submnit the request to your manager. 
+If you run into any issues, please report them directly to your manager, who will ensure they are sent directly to IT. Additionally, we are open to feature requests. This application is meant to make work *your* work easier. Simply outline the feature you'd like to see implemented, and submit the request to your manager. 
